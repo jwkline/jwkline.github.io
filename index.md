@@ -1,4 +1,4 @@
-<img src="https://jwkline.github.io/countdown.php" alt="timer" />
+<img src="https://jwkline.github.io/gif.php?time=2022-12-31+23:59:59" alt="timer" />
 
 You can use the [editor on GitHub](https://github.com/jwkline/jwkline.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
