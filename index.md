@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+<img src="https://jwkline.github.io/countdown.php" alt="timer" />
 
 You can use the [editor on GitHub](https://github.com/jwkline/jwkline.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
